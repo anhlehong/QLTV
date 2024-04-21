@@ -1,0 +1,48 @@
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\DAL.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\DAL.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\DAL\obj\Debug\DAL.pdb
+D:\New folder\QLTV\DAL\bin\Debug\DAL.dll.config
+D:\New folder\QLTV\DAL\bin\Debug\DAL.dll
+D:\New folder\QLTV\DAL\bin\Debug\DAL.pdb
+D:\New folder\QLTV\DAL\bin\Debug\EntityFramework.dll
+D:\New folder\QLTV\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\QLTV\DAL\bin\Debug\EntityFramework.xml
+D:\New folder\QLTV\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\QLTV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\New folder\QLTV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\New folder\QLTV\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\New folder\QLTV\DAL\obj\Debug\DAL.dll
+D:\New folder\QLTV\DAL\obj\Debug\DAL.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\DAL.dll.config
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\DAL.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\DAL.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\EntityFramework.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\EntityFramework.xml
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\obj\Debug\DAL.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\DAL\obj\Debug\DAL.pdb

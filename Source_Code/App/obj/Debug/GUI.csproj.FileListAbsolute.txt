@@ -1,0 +1,180 @@
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\App.exe.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\App.exe
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\App.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\BUS.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.SqlServer.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\Siticone.Desktop.UI.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\BUS.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\BUS.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.SqlServer.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\bin\Debug\DAL.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.frThemNhanVien.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.frThemPhieuPhat.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucAdmin.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucPhieuMuon.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucPhieuPhat.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucPhieuTra.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.frThemTaiLieu.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.fAddReader.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.frManager.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.frLogin.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.frThemPhieuMuon.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.fThemPhieuTra.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.Properties.Resources.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucBook.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucReaders.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.ucTaiKhoan.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.CopyComplete
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.exe
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\App\obj\Debug\App.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\App.exe.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\App.exe
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\App.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\BUS.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.SqlServer.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\Siticone.Desktop.UI.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\BUS.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\BUS.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\EntityFramework.SqlServer.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\bin\Debug\DAL.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.frThemNhanVien.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.frThemPhieuPhat.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucAdmin.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucPhieuMuon.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucPhieuPhat.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucPhieuTra.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.frThemTaiLieu.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.fAddReader.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.frManager.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.frLogin.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.frThemPhieuMuon.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.fThemPhieuTra.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.Properties.Resources.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucBook.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucReaders.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.ucTaiKhoan.resources
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\GUI.csproj.CopyComplete
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.exe
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\App\obj\Debug\App.pdb
+D:\New folder\QLTV\App\bin\Debug\App.exe.config
+D:\New folder\QLTV\App\bin\Debug\App.exe
+D:\New folder\QLTV\App\bin\Debug\App.pdb
+D:\New folder\QLTV\App\bin\Debug\BUS.dll
+D:\New folder\QLTV\App\bin\Debug\EntityFramework.dll
+D:\New folder\QLTV\App\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\QLTV\App\bin\Debug\Siticone.Desktop.UI.dll
+D:\New folder\QLTV\App\bin\Debug\DAL.dll
+D:\New folder\QLTV\App\bin\Debug\BUS.pdb
+D:\New folder\QLTV\App\bin\Debug\BUS.dll.config
+D:\New folder\QLTV\App\bin\Debug\EntityFramework.xml
+D:\New folder\QLTV\App\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\QLTV\App\bin\Debug\DAL.pdb
+D:\New folder\QLTV\App\bin\Debug\DAL.dll.config
+D:\New folder\QLTV\App\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\New folder\QLTV\App\obj\Debug\App.frDoiMatKhau.resources
+D:\New folder\QLTV\App\obj\Debug\App.frThemNhanVien.resources
+D:\New folder\QLTV\App\obj\Debug\App.frThemPhieuPhat.resources
+D:\New folder\QLTV\App\obj\Debug\App.ucAdmin.resources
+D:\New folder\QLTV\App\obj\Debug\App.ucPhieuMuon.resources
+D:\New folder\QLTV\App\obj\Debug\App.ucPhieuPhat.resources
+D:\New folder\QLTV\App\obj\Debug\App.ucPhieuTra.resources
+D:\New folder\QLTV\App\obj\Debug\App.frThemTaiLieu.resources
+D:\New folder\QLTV\App\obj\Debug\App.fAddReader.resources
+D:\New folder\QLTV\App\obj\Debug\App.frManager.resources
+D:\New folder\QLTV\App\obj\Debug\App.frLogin.resources
+D:\New folder\QLTV\App\obj\Debug\App.frThemPhieuMuon.resources
+D:\New folder\QLTV\App\obj\Debug\App.fThemPhieuTra.resources
+D:\New folder\QLTV\App\obj\Debug\App.Properties.Resources.resources
+D:\New folder\QLTV\App\obj\Debug\App.ucBook.resources
+D:\New folder\QLTV\App\obj\Debug\App.ucReaders.resources
+D:\New folder\QLTV\App\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\New folder\QLTV\App\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\New folder\QLTV\App\obj\Debug\GUI.csproj.CopyComplete
+D:\New folder\QLTV\App\obj\Debug\App.exe
+D:\New folder\QLTV\App\obj\Debug\App.pdb
+D:\New folder\Source_Code\App\bin\Debug\App.exe.config
+D:\New folder\Source_Code\App\bin\Debug\App.exe
+D:\New folder\Source_Code\App\bin\Debug\App.pdb
+D:\New folder\Source_Code\App\bin\Debug\BUS.dll
+D:\New folder\Source_Code\App\bin\Debug\EntityFramework.dll
+D:\New folder\Source_Code\App\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\Source_Code\App\bin\Debug\Siticone.Desktop.UI.dll
+D:\New folder\Source_Code\App\bin\Debug\DAL.dll
+D:\New folder\Source_Code\App\bin\Debug\BUS.pdb
+D:\New folder\Source_Code\App\bin\Debug\BUS.dll.config
+D:\New folder\Source_Code\App\bin\Debug\EntityFramework.xml
+D:\New folder\Source_Code\App\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\Source_Code\App\bin\Debug\DAL.pdb
+D:\New folder\Source_Code\App\bin\Debug\DAL.dll.config
+D:\New folder\Source_Code\App\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\New folder\Source_Code\App\obj\Debug\App.frDoiMatKhau.resources
+D:\New folder\Source_Code\App\obj\Debug\App.frThemNhanVien.resources
+D:\New folder\Source_Code\App\obj\Debug\App.frThemPhieuPhat.resources
+D:\New folder\Source_Code\App\obj\Debug\App.ucAdmin.resources
+D:\New folder\Source_Code\App\obj\Debug\App.ucPhieuMuon.resources
+D:\New folder\Source_Code\App\obj\Debug\App.ucPhieuPhat.resources
+D:\New folder\Source_Code\App\obj\Debug\App.ucPhieuTra.resources
+D:\New folder\Source_Code\App\obj\Debug\App.frThemTaiLieu.resources
+D:\New folder\Source_Code\App\obj\Debug\App.fAddReader.resources
+D:\New folder\Source_Code\App\obj\Debug\App.frManager.resources
+D:\New folder\Source_Code\App\obj\Debug\App.frLogin.resources
+D:\New folder\Source_Code\App\obj\Debug\App.frThemPhieuMuon.resources
+D:\New folder\Source_Code\App\obj\Debug\App.fThemPhieuTra.resources
+D:\New folder\Source_Code\App\obj\Debug\App.Properties.Resources.resources
+D:\New folder\Source_Code\App\obj\Debug\App.ucBook.resources
+D:\New folder\Source_Code\App\obj\Debug\App.ucReaders.resources
+D:\New folder\Source_Code\App\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\New folder\Source_Code\App\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\New folder\Source_Code\App\obj\Debug\GUI.csproj.CopyComplete
+D:\New folder\Source_Code\App\obj\Debug\App.exe
+D:\New folder\Source_Code\App\obj\Debug\App.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\App.exe.config
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\App.exe
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\App.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\BUS.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\EntityFramework.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\Siticone.Desktop.UI.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\DAL.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\BUS.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\BUS.dll.config
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\EntityFramework.xml
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\DAL.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\App\bin\Debug\DAL.dll.config
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frDoiMatKhau.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frThemNhanVien.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frThemPhieuPhat.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.ucAdmin.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.ucPhieuMuon.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.ucPhieuPhat.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.ucPhieuTra.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frThemTaiLieu.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.fAddReader.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frManager.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frLogin.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.frThemPhieuMuon.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.fThemPhieuTra.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.Properties.Resources.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.ucBook.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.ucReaders.resources
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\GUI.csproj.CopyComplete
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.exe
+D:\Quan_Ly_Thu_Vien\Source_Code\App\obj\Debug\App.pdb

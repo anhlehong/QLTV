@@ -1,0 +1,60 @@
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\BUS.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\BUS.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\BUS.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\DAL.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_02\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\BUS.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\BUS.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\BUS.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\DAL.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\DAL.pdb
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\DAL.dll.config
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.dll
+D:\99_WINFORM\00_MAIN_02\Mai_02_Test_01\Thuvien\Thuvien\App\BUS\obj\Debug\BUS.pdb
+D:\New folder\QLTV\BUS\bin\Debug\BUS.dll.config
+D:\New folder\QLTV\BUS\bin\Debug\BUS.dll
+D:\New folder\QLTV\BUS\bin\Debug\BUS.pdb
+D:\New folder\QLTV\BUS\bin\Debug\DAL.dll
+D:\New folder\QLTV\BUS\bin\Debug\EntityFramework.dll
+D:\New folder\QLTV\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\QLTV\BUS\bin\Debug\DAL.pdb
+D:\New folder\QLTV\BUS\bin\Debug\DAL.dll.config
+D:\New folder\QLTV\BUS\bin\Debug\EntityFramework.xml
+D:\New folder\QLTV\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\New folder\QLTV\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\New folder\QLTV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\New folder\QLTV\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\New folder\QLTV\BUS\obj\Debug\BUS.dll
+D:\New folder\QLTV\BUS\obj\Debug\BUS.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\BUS.dll.config
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\BUS.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\BUS.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\DAL.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\EntityFramework.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\DAL.pdb
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\DAL.dll.config
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\EntityFramework.xml
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\obj\Debug\BUS.dll
+D:\Quan_Ly_Thu_Vien\Source_Code\BUS\obj\Debug\BUS.pdb
